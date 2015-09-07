@@ -39,7 +39,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5 ... the new Bedrock - Pratice</div>
+                <div class="title">Laravel 5 ... the new Bedrock - Practice</div>
             </div>
         </div>
     </body>
